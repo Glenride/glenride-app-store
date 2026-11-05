@@ -1,0 +1,20 @@
+{
+  "site": "Glenride App Store",
+  "url": "https://glenride-app-store.pages.dev",
+  "generated": "2026-10-08",
+  "routes": [
+    {
+      "path": "/",
+      "markdown": "/index.md",
+      "title": "Glenride App Store",
+      "summary": "Buy the work. License the system.",
+      "updated": "2026-10-08"
+    }
+  ],
+  "catalog": {
+    "total": 11,
+    "live": 3,
+    "staging": 5,
+    "custom": 3
+  }
+}

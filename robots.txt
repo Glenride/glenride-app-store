@@ -1,0 +1,17 @@
+# Glenride App Store — AI crawlers. Keep in sync with llms.txt and ai.txt.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Training crawlers (GPTBot, ClaudeBot, Google-Extended, Applebot-Extended,
+# CCBot, Bytespider) are not named here: no decision to allow them was given.
+# Blocking training does not stop citations from the search bots named above.
+# See /llms.txt and /ai.txt.
+Sitemap: https://glenride-app-store.pages.dev/sitemap.xml

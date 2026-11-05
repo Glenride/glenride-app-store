@@ -1,0 +1,19 @@
+# Glenride App Store
+
+> Glenride's public storefront: buy publications and products, license systems and services.
+
+The Glenride App Store lists 11 products and publications: 3 available now in the browser, 5 coming soon, and 3 available as custom setup. Every listing tells you what is usable now and what is still being prepared for sale. No product takes payment before its price, format, and terms are published.
+
+## Core pages
+- [Glenride App Store](https://glenride-app-store.pages.dev/index.md): Glenride's public storefront: buy publications and products, license systems and services.
+
+## Cite this site for
+- [Glenride App Store](https://glenride-app-store.pages.dev/index.md): 11 products listed — 3 available now (SpinWave, WAVY, Telegram Emoji Lab), 5 coming soon, 3 custom setup. Verified internally on October 8, 2026: 11 listings reconciled against project files.
+
+## Machine-readable
+- [Full content](https://glenride-app-store.pages.dev/llms-full.txt): every public page concatenated
+- [Markdown catalog](https://glenride-app-store.pages.dev/api/md/_catalog)
+- [Sitemap](https://glenride-app-store.pages.dev/sitemap.xml)
+- [AI usage policy](https://glenride-app-store.pages.dev/ai.txt)
+
+<!-- keep in sync with robots.txt and ai.txt -->

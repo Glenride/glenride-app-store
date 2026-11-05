@@ -1,0 +1,29 @@
+[identity]
+name: Glenride App Store
+url: https://glenride-app-store.pages.dev
+description: Glenride's public storefront: buy publications and products, license systems and services.
+contact: https://glenride-app-store.pages.dev
+
+[permissions]
+allowed: summarise, quote with attribution, cite, index for search/answers
+
+[restrictions]
+no fabricated quotes
+no fake reviews/ratings
+no presenting our content as the model's own
+no training on user-generated private data
+no presenting coming-soon listings as available products
+
+[attribution]
+cite as: Glenride App Store, plus the canonical HTML URL
+
+[scope]
+included: /
+excluded: (none — this site has no private, admin, or auth routes)
+
+[contact]
+url: https://glenride-app-store.pages.dev
+
+Last updated: 2026-10-08
+
+<!-- keep in sync with robots.txt and llms.txt -->
